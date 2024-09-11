@@ -15,4 +15,4 @@ The packages needed will be installed automatically. After setting up the enviro
 ```
 python federated.py
 ```
-You can also run this file in Pycharm or other IDEs. The program should produce a c-index output of about 0.7428. Our paper is <a href="https://github.com/EuclidNorm/iDash2024-LARC-Submission/blob/master/LARC_document.pdf" target="_blank">here</a> in this repo, too. 
+You can also run this file in Pycharm or other IDEs. The program should produce a c-index output of about 0.7428. Our paper is <a href="https://github.com/EuclidNorm/iDash2024-LARC-Submission/blob/master/LARC_document.pdf" target="_blank">here</a>. 
